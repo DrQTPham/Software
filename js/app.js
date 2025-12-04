@@ -1,5 +1,15 @@
 // API Base URL
-const API_BASE_URL = 'http://localhost:8000/api/v1';
+//const API_BASE_URL = 'http://localhost:8000/api/v1';
+//const API_BASE_URL = 'http://localhost:8000';
+//const API_URL = "http://192.168.30.105:8000";
+//const API_BASE = "http://192.168.30.105:8000";     // nếu trong LAN
+const API_BASE_URL = "http://192.168.30.105:8000/api/v1";
+//const API_BASE_URL = "http://192.168.30.105:8000";
+
+
+//const API_URL = "https://192.168.30.105:8000";
+
+
 
 // ============================================
 // UTILITY: Normalize decimal input (hỗ trợ cả , và .)
